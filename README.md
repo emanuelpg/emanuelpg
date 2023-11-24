@@ -9,7 +9,7 @@
 ##### - Work done or contributed during my professional experiences.
 
 - 🔭 I’m currently working on a scientific project at the Engineering School of São Carlos (EESC - USP), in which I'm applying Machine Learning models to classify fault occurrence in medium voltage feeders that connect wind farms.
-- 🌱 I’m currently learning Signal Processing and delving deeper into Machine Learning and Deep Learning topics.
+- 🌱 I’m currently learning Signal Processing and diving deeper into Machine Learning and Deep Learning topics.
 - 📫 How to reach me: this is my [email](emanueloliveira@usp.br), and that's my [LinkedIn](https://www.linkedin.com/in/emanuel-de-oliveira-1abb31149/) profile.
 
 **Language and Tools:** 
