@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Emanuel Percinio 👋
+
+#### I'm currently a Computer Engineering student at the University of São Paulo, in my free time, focusing on the study of Artificial Intelligence.
+#### I'm passionate with a lot of different subjects and I plan to use the repository to show my various works during my lifetime.
+#### This repository may include:
+##### - Projects and Assignments that I developed or contributed during a college course.
+##### - Personal projects that I developed to learn a new topic or put a practice a personal goal.
+##### - Work done or contributed during my research experiences.
+##### - Work done or contributed during my professional experiences.
+
+- 🔭 I’m currently working on a scientific project at the Engineering School of São Carlos (EESC - USP), in which I'm applying Machine Learning models to classify fault occurrence in medium voltage feeders that connect wind farms.
+- 🌱 I’m currently learning Signal Processing and delving deeper into Machine Learning and Deep Learning topics.
+- 📫 How to reach me: this is my [email](emanueloliveira@usp.br), and that's my [LinkedIn](https://www.linkedin.com/in/emanuel-de-oliveira-1abb31149/) profile.
+
+**Language and Tools:** 
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,c,java" />
+</a>
 
 <!--
 **emanuelpg/emanuelpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
