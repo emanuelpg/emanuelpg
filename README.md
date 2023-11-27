@@ -2,7 +2,7 @@
 
 #### I'm currently a Computer Engineering student at the University of São Paulo, in my free time, focusing on the study of Artificial Intelligence.
 #### I'm passionate with a lot of different subjects and I plan to use this repository to show my various works during my lifetime.
-#### To better organize my profile, I separated the repositories into lists according to the theme of the project in question.
+#### To better organize my profile, I separated the repositories into lists according to the theme of the project in question, you can see that in "Stars" section.
 #### This repository may include:
 ##### - Projects and Assignments that I developed or contributed during a college course.
 ##### - Personal projects that I developed to learn a new topic or put a practice a personal goal.
