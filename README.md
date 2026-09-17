@@ -9,7 +9,6 @@
 ##### - Work done or contributed during my research experiences.
 ##### - Work done or contributed during my professional experiences.
 
-- 🔭 I’m currently working on a internship in Computer Vision at Apollo Solutions. 
 - 📫 How to reach me: this is my [email](emanueloliveira@usp.br), and that's my [LinkedIn](https://www.linkedin.com/in/emanuel-de-oliveira-1abb31149/) profile. Feel free to contact :)
 
 **Language and Tools:** 
